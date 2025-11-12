@@ -1,4 +1,4 @@
-# data-analytics-projects
+# excel-practice-projects
 My learning journey and projects in data analytics - Python, Excel, SQL, and Power BI.
 # 👋 Hi, I'm Nkateko Maluleke  
 🎓 BSc Maths & Physics Student | 📊 Aspiring Data Analyst & Medical Physicist | 🌍 Lifelong Learner  
